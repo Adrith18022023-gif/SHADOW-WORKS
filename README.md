@@ -1,6 +1,6 @@
-print ("our programme has already started ")
+printf ("our programme has already started ")
 
 <br>
 
-print (" i dont know how to start coding")
+printf (" i dont know how to start coding")
     
