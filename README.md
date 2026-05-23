@@ -1,6 +1,6 @@
-#include <stdio.h> 
+print ("our programme has already stated ")
+
 <br>
-int main () 
-<br>
-{ 
+
+print (" i dont know how to start coding")
     
